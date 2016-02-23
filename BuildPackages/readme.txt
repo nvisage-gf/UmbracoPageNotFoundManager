@@ -6,4 +6,4 @@
                              
 This package is proudly presented to you by Tim Geyssens 
 http://nibble.be - Umbraco Developer
-                             
+https://github.com/nvisage-gf/UmbracoPageNotFoundManager - This forks repository

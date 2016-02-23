@@ -21,8 +21,8 @@ Backoffice credentials: **john@doe.com / password**
 1. [**NuGet Package**][NuGetPackageUrl]  
 Install the NuGet package in your Visual Studio project. Makes updating easy.
 
-2. [**Umbraco package**][UmbracoPackageUrl]  
-Install the Umbraco package via the developer section in Umbraco.
+2. [**GitHub**][GitHubUrl]  
+Clone the repo, build via \BuildPackages\Package.build.cmd (via developer command prompt) and install the Umbraco package from the \Releases folder via the developer section in Umbraco.
 
-[NuGetPackageUrl]: https://www.nuget.org/packages/Nibble.Umbraco.PageNotFoundManager/
-[UmbracoPackageUrl]: https://our.umbraco.org/projects/backoffice-extensions/umbraco-page-not-found-manager/
+[NuGetPackageUrl]: https://nvisage.visualstudio.com/DefaultCollection/Nvisage/_apps/hub/ms.feed.feed-hub
+[GitHubUrl]: https://github.com/nvisage-gf/UmbracoPageNotFoundManager/

@@ -22,7 +22,7 @@
 		<AuthorUrl>http://nibble.be</AuthorUrl>
 		<PackageLicenseName>MIT license</PackageLicenseName>
 		<PackageLicenseUrl>http://www.opensource.org/licenses/mit-license.php</PackageLicenseUrl>
-		<ProjectUrl>http://nibble.be</ProjectUrl>
+		<ProjectUrl>https://github.com/nvisage-gf/UmbracoPageNotFoundManager</ProjectUrl>
 	</PropertyGroup>
 
 	<!-- NUGET ONLY PROPERTIES -->
@@ -42,7 +42,7 @@
 	<PropertyGroup>
 		<VersionMajor>1</VersionMajor>
 		<VersionMinor>6</VersionMinor>
-		<VersionPatch>3</VersionPatch>
+		<VersionPatch>4</VersionPatch>
 		<VersionSuffix>-beta</VersionSuffix>
 		<UmbracoVersion>7.3.0</UmbracoVersion>
 	</PropertyGroup>
